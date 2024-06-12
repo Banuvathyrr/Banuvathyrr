@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=banuvathyrr" alt="banuvathyrr" /></a> </p>
 
-- 🔭 I’m currently working on **SQL, PowerBI, Python**
+- 🔭 I’m currently working on **MS Excel, SQL, PowerBI, Python**
 
 - 📫 How to reach me **banuvathyrr@gmail.com**
 
